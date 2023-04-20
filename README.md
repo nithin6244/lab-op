@@ -1,4 +1,4 @@
-#LOAN CALCULATOR
+# LOAN CALCULATOR
 The Loan Calculator is a simple web application that allows users to calculate the monthly payments and total cost of a loan based on the loan amount, interest rate, and loan term. The application was built using React, Chart.js and TACHYONS and is open-source, so anyone can use, modify, and contribute to the project.
 
 
